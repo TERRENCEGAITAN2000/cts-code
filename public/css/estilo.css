@@ -1,0 +1,38 @@
+.naveg-bar {
+    background-color: black !important;
+}
+
+.imagen-circular {
+    border-radius: 50%;
+    width: 16%;
+    margin-left: 10%;
+}
+
+.btn-link{
+  color: #ffffff;
+}
+
+.btn-link:hover{
+
+  color: #ff0000;
+}
+
+.btn-primary{
+ background-color: #ff0000;
+ border-color: black; 
+}
+
+.btn-primary:hover{
+  background-color: #949494; 
+ }
+
+ .btn-outline-primary{
+    background-color: #ff0000;
+    border-color: rgb(255, 255, 255); 
+    color: #fff;
+ }
+ 
+.btn-outline-primary:hover {
+  background-color: #585858;
+  color: #fff;
+}
