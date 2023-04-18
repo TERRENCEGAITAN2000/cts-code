@@ -16,5 +16,3 @@ Now:
 #php artisan 
 #php artisan serve
 #npm run dev
-
-Translated with www.DeepL.com/Translator (free version)
